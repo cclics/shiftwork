@@ -34,3 +34,17 @@ At the end of each cycle, we host Demo Day, where our codeCollab fellows present
 ### Interested in Joining CodeCollab?
 
 We are currently running Cycle 2 from March 8th through May 28th 2021 (12 weeks). If you are interested in joining Cycle 3, please [join our mailing list](https://ourtimefortech.org/#apply) so we can alert you when Cycle 3 applications open up.
+
+<hr />
+
+### Installation Instructions
+1. Make sure you have Rails 6, Node (14.14.x), Yarn and Postgresql installed on your machine.
+2. Fork this project to your GitHub Account.
+3. Clone your forked project to your local machine.
+4. Make sure Postgres is running.
+5. On Terminal (or other CLI), run the commands `rails db:setup` and `rails db:migrate` to create and configure databases.
+6. Run the command `bundle install` to install all gems.
+7. Run the command `rails server` to run the app locally on port 3000.
+8. In your browser, navigate to `localhost:3000`. You should see the application running.
+
+If you run into any problems installing the app locally, please open an Issue. Thanks!
