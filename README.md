@@ -1,3 +1,5 @@
+![Shiftwork App Banner Image](https://i.ibb.co/N9ZzDg1/readme-banner.jpg])
+
 <div align="center">
   <h1>The Shiftwork App 📆</h1>
   <strong>Built by the engineering fellows of Our Time For Tech's <a href="https://ourtimefortech.org">CodeCollab Track</a>.</strong>
