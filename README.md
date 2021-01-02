@@ -7,7 +7,8 @@
 
 ## About Shiftwork App
 
-The Shiftwork App is engineered by the fellows of Our Time For Tech's CodeCollab track. Through building this application, our fellows increase their competencies in the following areas:
+The Shiftwork App is a meeting place for shiftworkers seeking gigs and busines owners seeking an easy way to fill last-minute open shifts.<br />
+The app is engineered by the fellows of Our Time For Tech's CodeCollab track. Through building this application, our fellows increase their competencies in the following areas:
 - Technical and interpersonal collaboration
 - Team communication
 - Interpreting, managing & implementing project requirements
