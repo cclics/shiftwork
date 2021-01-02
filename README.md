@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/Rymn5XF/readme-banner.png" alt="Shiftwork App Banner Image" />
 
 <div align="center">
-  <h1><a href="https://shiftwork.herokuapp.com/" target="_blank">The Shiftwork App</a> 📆</h1>
+  <h1><a href="https://shiftwork.herokuapp.com/" target="_blank" rel="nofollow">The Shiftwork App</a> 📆</h1>
   <strong>Built by the engineering fellows of Our Time For Tech's <a href="https://ourtimefortech.org">CodeCollab Track</a>.</strong>
 </div>
 
