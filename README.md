@@ -12,12 +12,11 @@ The Shiftwork App is engineered by the fellows of Our Time For Tech's CodeCollab
 - Understanding and consuming technical documentation
 
 ### Meet the Fellows of CodeCollab Cycle 2
-#### Fake Name
-*Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
+
+**Fake Name**: *Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
 [Twitter](https://twitter.com) | [Blog](https://arit.dev) | [GitHub](https://github.com)
 
-#### Fake Name
-*Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
+**Fake Name**: *Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
 [Twitter](https://twitter.com) | [Blog](https://arit.dev) | [GitHub](https://github.com)
 
 <hr />
