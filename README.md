@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/q5jJhkM/readme-banner.png" alt="Shiftwork App Banner Image" />
+<img src="https://i.ibb.co/Rymn5XF/readme-banner.png" alt="Shiftwork App Banner Image" />
 
 <div align="center">
   <h1>The Shiftwork App 📆</h1>
