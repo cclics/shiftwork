@@ -16,8 +16,8 @@ The app is engineered by the fellows of Our Time For Tech's CodeCollab track. Th
 
 ### Meet the Fellows of CodeCollab Cycle 2
 
-**Fake Name**: *Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
-[Twitter](https://twitter.com) | [Blog](https://arit.dev) | [GitHub](https://github.com)
+**Cam Bui**: *Web developer with a background in health science. I love seeing what happens when we give people different tools and strategies to solve their problems*
+[Twitter](https://twitter.com/dordsichord) | [Blog](https://dev.to/dordsichord) | [GitHub](https://github.com/ncbui)
 
 **Fake Name**: *Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name. Short Blurb about Fake Name.*
 [Twitter](https://twitter.com) | [Blog](https://arit.dev) | [GitHub](https://github.com)
