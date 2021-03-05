@@ -22,6 +22,9 @@ The app is engineered by the fellows of Our Time For Tech's CodeCollab track. Th
 **Timi Bello**: *Web Developer who is enthusiastic about creating solutions to everyday problems, and sharing knowledge. Eager to learn new languages and frameworks.*
 [Twitter](https://twitter.com/zoebreed) | [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-bello-0376871aa/) | [GitHub](https://github.com/Timilehin08/)
 
+**Gabrielle Easton**: *Web Developer who enjoys experiments and exploring new solutions to everyday problems. Passionate about design and a smooth user experience. Secretly in love with debugging.*
+[Linkedin](https://www.linkedin.com/in/gabrielle-easton/) | [Website](https://gabrielle-easton.dev) | [GitHub](https://github.com/GabrielleEaston)
+
 <hr />
 
 ### Demo Day
