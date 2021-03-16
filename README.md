@@ -19,7 +19,7 @@ The app is engineered by the fellows of Our Time For Tech's CodeCollab track. Th
 **Sara Lopez**: *Web developer with PHP and JavaScript experience. Currently learning ReactJS and always keen to try new languages and frameworks. Interested in everything related to eCommerce*
 [Twitter](https://twitter.com/saradotlog) | [Linkedin](https://www.linkedin.com/in/sara-lopez-3311645a/) | [GitHub](https://github.com/saradotlog/)
 
-**Carla Dos Santos**: *IT Consultant for BPM, helping people to discover and to improve their processes. Web Developer with Java experience. Currently learning Ruby on Rails and React.*
+**Carla Dos Santos**: *Web Developer with Java experience. Currently learning Ruby on Rails and React. Interested in mobile apps and process automation.*
 [Twitter](https://twitter.com/carladotsantos) | [Blog](https://dev.to/cclics) | [GitHub](hhttps://github.com/cclics)
 
 **Timi Bello**: *Web Developer who is enthusiastic about creating solutions to everyday problems, and sharing knowledge. Eager to learn new languages and frameworks.*
