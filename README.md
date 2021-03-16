@@ -20,7 +20,7 @@ The app is engineered by the fellows of Our Time For Tech's CodeCollab track. Th
 [Twitter](https://twitter.com/saradotlog) | [Linkedin](https://www.linkedin.com/in/sara-lopez-3311645a/) | [GitHub](https://github.com/saradotlog/)
 
 **Carla Dos Santos**: *Web Developer with Java experience. Currently learning Ruby on Rails and React. Interested in mobile apps and process automation.*
-[Twitter](https://twitter.com/carladotsantos) | [Blog](https://dev.to/cclics) | [GitHub](hhttps://github.com/cclics)
+[Twitter](https://twitter.com/carladotsantos) | [Blog](https://dev.to/cclics) | [GitHub](https://github.com/cclics)
 
 **Timi Bello**: *Web Developer who is enthusiastic about creating solutions to everyday problems, and sharing knowledge. Eager to learn new languages and frameworks.*
 [Twitter](https://twitter.com/zoebreed) | [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-bello-0376871aa/) | [GitHub](https://github.com/Timilehin08/)
